@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\CountWord\CountWord\obj\Debug\net6.0\CountWord.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CountWord\CountWord\obj\Debug\net6.0\CountWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\CountWord\CountWord\obj\Debug\net6.0\CountWord.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CountWord\CountWord\obj\Debug\net6.0\CountWord.AssemblyInfo.cs
+C:\Users\USER\source\repos\CountWord\CountWord\obj\Debug\net6.0\CountWord.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CountWord\CountWord\bin\Debug\net6.0\CountWord.exe
+C:\Users\USER\source\repos\CountWord\CountWord\bin\Debug\net6.0\CountWord.deps.json
+C:\Users\USER\source\repos\CountWord\CountWord\bin\Debug\net6.0\CountWord.runtimeconfig.json
+C:\Users\USER\source\repos\CountWord\CountWord\bin\Debug\net6.0\CountWord.dll
+C:\Users\USER\source\repos\CountWord\CountWord\bin\Debug\net6.0\CountWord.pdb
+C:\Users\USER\source\repos\CountWord\CountWord\obj\Debug\net6.0\CountWord.dll
+C:\Users\USER\source\repos\CountWord\CountWord\obj\Debug\net6.0\refint\CountWord.dll
+C:\Users\USER\source\repos\CountWord\CountWord\obj\Debug\net6.0\CountWord.pdb
+C:\Users\USER\source\repos\CountWord\CountWord\obj\Debug\net6.0\CountWord.genruntimeconfig.cache
+C:\Users\USER\source\repos\CountWord\CountWord\obj\Debug\net6.0\ref\CountWord.dll
